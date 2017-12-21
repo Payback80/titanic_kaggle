@@ -1,0 +1,16 @@
+# Titanic competition kaggle
+i have finished into 20% with a score of 0.80
+
+
+
+
+
+## Author
+
+* **Andrea Mariani** - *Initial work* - [Payback80](https://github.com/Payback80)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
